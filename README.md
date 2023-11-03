@@ -1,0 +1,2 @@
+# Fake_News_detection_Python_Flask_Software
+Fake_News_detection_Python_Flask_Software
