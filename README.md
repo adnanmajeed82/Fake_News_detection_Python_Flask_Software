@@ -9,3 +9,6 @@
 - If you want to build your model with the some changes, you can check the `Fake_News_Detection.ipynb`.
 - You can check web app is working fine. Sometimes predictions may be wrong.
 
+Author: Adnan Majeed
+Email: adnanmajeed82@gmail.com
+Tel: +92 3004870104
